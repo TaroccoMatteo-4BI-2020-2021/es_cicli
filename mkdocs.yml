@@ -1,1 +1,8 @@
+site_name: 2020_5BI_Team1
+
+nav:
+    - 'MD': 'Default.md'
+
+theme:
+    name: readthedocs
 
