@@ -11,5 +11,5 @@ theme:
 
 
 nav:
-  - prova:
-      - prova: index.md
+    - 'prova': 'index.md'
+    - 'alghe': 'Alghe_01.java'
