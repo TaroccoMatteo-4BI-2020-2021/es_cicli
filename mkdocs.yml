@@ -13,3 +13,4 @@ theme:
 nav:
     - 'prova': 'index.md'
     - 'alghe': 'alghe_01.pdf'
+    - 'alghe': 'Alghe_01.java'
