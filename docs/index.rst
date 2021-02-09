@@ -1,1 +1,15 @@
-SALVE
+site_name: Tarocco_Matteo
+
+repo_url: https://github.com/TaroccoMatteo/TaroccoMatteo-4BI-2020-2021
+
+nav:
+    - 'MD': 'Default.md'
+
+theme:
+    name: readthedocs
+
+
+
+nav:
+  - prova:
+      - prova: index.md
