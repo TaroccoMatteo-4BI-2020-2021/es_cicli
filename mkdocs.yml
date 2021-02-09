@@ -10,4 +10,4 @@ theme:
 
 nav:
   - prova:
-      - Get started: index.md
+      - prova: index.md
